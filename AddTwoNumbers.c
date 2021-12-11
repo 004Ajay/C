@@ -1,6 +1,8 @@
+// C Program to add two numbers
+
 #include <stdio.h>
 int main(){
-    int num1, num2;
+    int num1, num2; //getting two numbers
     printf("Enter two Numbers: ");
     scanf("%d %d", &num1, &num2); //getting numbers
 
