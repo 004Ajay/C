@@ -1,4 +1,4 @@
-//C Program to perform Matrix Addition.
+//C Program to perform Matrix Subtraction.
 
 #include <stdio.h>
 //Function to print Matrix.
@@ -12,12 +12,12 @@ int PrintMatrix(int p[10][10], int rows, int columns){
     }
 }
 
-//Function to Add Matrix.
+//Function to Subtract Matrix.
 int AddMatrix(int matrix1[10][10], int matrix2[10][10], int matrix3[10][10], int rows, int columns){
     int i, j;
     for(i=0; i<rows; i++){
         for(j=0; j<columns; j++){
-        matrix3[i][j]=matrix1[i][j]+ matrix2[i][j];
+        matrix3[i][j] = matrix1[i][j] - matrix2[i][j];
         }
     }
 }
@@ -37,7 +37,6 @@ for(i=0; i < rows; i++){
         scanf("%d", &matrix1[i][j]);
     }
 }
-
 //Getting values of 2nd Matrix.
 printf("\n\n\nEnter value of 2nd Matrix\n");
 for(i=0; i < rows; i++){
@@ -55,7 +54,7 @@ PrintMatrix(matrix1, rows, columns);
 printf("\t\t\nInput Matrix 2\n");
 PrintMatrix(matrix2, rows, columns);
 
-//Printing Sum of Matrix 1 & 2
+//Printing Difference of Matrix 1 & 2
 printf("\t\t\nSum of Matrics\n");
 AddMatrix(matrix1, matrix2, matrix3, rows, columns);
 PrintMatrix(matrix3, rows, columns);
