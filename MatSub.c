@@ -33,7 +33,7 @@ scanf("%d %d", &rows, &columns);
 printf("\n\n\nEnter value of 1st Matrix\n");
 for(i=0; i < rows; i++){
     for(j=0; j< columns; j++){
-        printf("\nEnter Matrix1[%d][%d] value:", i+1, j+1);
+        printf("\nEnter Matrix1[%d][%d] value:", i, j);
         scanf("%d", &matrix1[i][j]);
     }
 }
@@ -41,7 +41,7 @@ for(i=0; i < rows; i++){
 printf("\n\n\nEnter value of 2nd Matrix\n");
 for(i=0; i < rows; i++){
     for(j=0; j< columns; j++){
-        printf("\nEnter Matrix2[%d][%d] value:", i+1, j+1);
+        printf("\nEnter Matrix2[%d][%d] value:", i, j);
         scanf("%d", &matrix2[i][j]);
     }
 }

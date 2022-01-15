@@ -35,7 +35,7 @@ printf("\n\n\nEnter value of the Matrix\n");
 
 for(i=0; i<rows; i++){
     for(j=0; j<columns; j++){
-        printf("\nEnter Matrix[%d][%d] value:", i+1, j+1);
+        printf("\nEnter Matrix[%d][%d] value:", i, j);
         scanf("%d", &matrix[i][j]);
     }
 }
