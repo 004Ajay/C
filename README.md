@@ -41,7 +41,14 @@ int main() {
 
 int main(){} or void main(){} - The first function that is going to work in any C program, no matter how many other User-Defined Functions(UDFs) present.
 
+Data type before main denotes the data type of the return value.
+
 ---
 
+{} - inside these brackets, we can write the code.
 
+---
 
+return - here, this keyword returns 0, that says to the compiler that the program has ended with no errors, we don't need return 0 in main function in linux systems
+
+---
