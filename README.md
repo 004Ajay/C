@@ -3,9 +3,45 @@
 
 ## C - PROGRAMMING BASICS
 
-1) / * & * / is used for multi line commentin (without space b/t * & /) 
+---
 
-2) // is used for single line commenting
+/ * & * / is used for multi line commentin (without space b/t * & /) 
 
-3) 
+---
+This is how a normal C-Program looks like
+
+/*
+
+Author's name & other details
+
+*/
+
+#include <stdio.h>
+
+int main() {
+
+   printf("Hello, World!"); //displays the string inside quotation
+   return 0;
+
+}
+
+---
+
+// is used for single line commenting
+
+---
+
+#include - preprocessor directive
+
+---
+
+<stdio.h> - header file or library
+
+---
+
+int main(){} or void main(){} - The first function that is going to work in any C program, no matter how many other User-Defined Functions(UDFs) present.
+
+---
+
+
 
