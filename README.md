@@ -1,7 +1,7 @@
-#Uploading C Programs that I studied
+# Uploading C Programs that I studied
 
 
-C - PROGRAMMING BASICS
+## C - PROGRAMMING BASICS
 
 1) / * & * / is used for multi line commentin (without space b/t * & /) 
 
