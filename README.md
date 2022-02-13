@@ -16,6 +16,15 @@ Author's name & other details
 
 */
 
+     #include <stdio.h>
+
+    int main() {
+    printf("Hello, World!"); //displays the string inside quotation
+    return 0;
+
+}
+
+
 #include <stdio.h>
 
 int main() {
