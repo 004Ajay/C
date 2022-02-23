@@ -1,0 +1,32 @@
+Add Two Numbers
+Armstrong Number
+Array Copying
+Array Minimum to Maximum
+Finding Odd & Even numbers from Array
+Sum of elements of an Array
+ASCII Value of a Charcter
+Largest Among Two Numbers
+Number is Even or Odd
+Factorial of a number
+Fibonacci Series
+Hello World
+Largest Of 3 Numbers
+An year is Leap Year or not
+Linear Search
+Matrix Addition
+Matrix Calaculator
+Matrix Multiplication
+Matrix Subtraction
+Matrix Transpose
+Number of Digits in a Number
+Palindrome of a Number
+Reversing a Number
+Number To Words
+Prime Number Check
+Quadratic Equation
+Star Pattern Printing
+Sum of Digits of a Number
+Swap with 3rd Variable
+Swap without 3rd Variable
+Week Days
+Word Reversing
