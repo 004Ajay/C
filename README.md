@@ -52,11 +52,11 @@
 
 [Sum of digits of a number](https://github.com/004Ajay/C/blob/main/SumOfDigits.c)
 
-[Sum of digits of a number](https://github.com/004Ajay/C/blob/main/SwapWith3rdVar.c)
+[Swapping with third variable](https://github.com/004Ajay/C/blob/main/SwapWith3rdVar.c) 
 
-[Sum of digits of a number](https://github.com/004Ajay/C/blob/main/SwapWithout3rdVar.c)
+[Swapping without third variable](https://github.com/004Ajay/C/blob/main/SwapWithout3rdVar.c) 
 
-[Sum of digits of a number](https://github.com/004Ajay/C/blob/main/WeekDays.c) 
+[Week to Day](https://github.com/004Ajay/C/blob/main/WeekDays.c) 
 
 ---
 
