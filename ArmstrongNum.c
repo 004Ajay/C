@@ -7,8 +7,8 @@ printf("Enter the number=");
 scanf("%d",&number);    
 temp=number;    
 while(number>0){    
-remainder=number%10;    
-sum=sum+(remainder * remainder * remainder);    
+remainder = number % 10;    
+sum=sum+(remainder * remainder * remainder);
 number=number/10;    
 }    
 
