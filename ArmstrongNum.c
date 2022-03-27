@@ -12,7 +12,7 @@ sum=sum+(remainder * remainder * remainder);
 number=number/10;    
 }    
 
-if(temp==sum)    
+if(temp == sum)    
 printf("%d is an armstrong number", temp);    
 else    
 printf("%d is not an armstrong number", temp);    
