@@ -74,6 +74,8 @@
 
 ## MATRIX
 
+[Diagonal Matrix Or Not](https://github.com/004Ajay/C/blob/main/DiagonalMatrixOrNot.c)
+
 [Matrix Addition](https://github.com/004Ajay/C/blob/main/MatAdd.c)
 
 [Matrix Calaculator](https://github.com/004Ajay/C/blob/main/MatCalaculator.c)
@@ -83,6 +85,8 @@
 [Matrix Subtraction](https://github.com/004Ajay/C/blob/main/MatSub.c)
 
 [Matrix Transpose](https://github.com/004Ajay/C/blob/main/MatTranspose.c) 
+
+[Sparse Matrix](https://github.com/004Ajay/C/blob/main/SparseMatrix.c)
 
 ---
 
